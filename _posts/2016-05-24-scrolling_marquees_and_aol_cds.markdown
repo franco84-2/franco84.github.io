@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scrolling Marquees and AOL CD's"
-date:   2016-05-24 01:51:54 +0000
+date:   2016-05-23 21:51:54 -0400
 ---
 
 
